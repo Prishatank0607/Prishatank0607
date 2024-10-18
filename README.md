@@ -37,14 +37,7 @@ I'm a final-year BTech computer science student with a passion for **Data Analyt
 ---
 
 ## 🔗 Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](#) 
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](#) 
-- ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)(#)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/prisha-tank-b2b337241) 
+- ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)(mailto:prishatank6@gmail.com)
 
----
 
-Feel free to edit sections, add project links, or include additional contact information!
-
----
-
-You can copy-paste this template into your README file on GitHub, and it will display the logos. Let me know if you'd like more customizations!
