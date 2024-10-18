@@ -4,7 +4,7 @@
 I'm a final-year BTech computer science student with a passion for **Data Analytics, Data Science, and AI**. I specialize in developing data-driven solutions and transforming data into actionable insights. Currently, I’m enhancing my skills in machine learning and predictive analytics, while exploring new AI technologies.
 
 ### Key Areas of Interest
-- **Data Science** | **Data Analytics** | **Artificial Intelligence**
+- **Data Analytics** | **Data Science** | **Artificial Intelligence**
 - Building solutions in **C/C++**, **Python**, and **SQL**
 - Creating insightful reports using **PowerBI**, **Tableau**, and **Excel**
 
